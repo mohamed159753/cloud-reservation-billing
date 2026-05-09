@@ -1,6 +1,6 @@
 # Demo Video
 
-**Full platform walkthrough:** [[Demo Link](https://www.loom.com/share/e785c4292bc744439a2fab95de94e7e6)]
+**Full platform walkthrough:** [[Cloud Resource Reservation & ECS Lifecycle Management Platform — Full Workflow Demonstration](https://www.loom.com/share/e785c4292bc744439a2fab95de94e7e6)]
 
 ## Timestamps
 
