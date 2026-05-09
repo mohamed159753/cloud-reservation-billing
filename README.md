@@ -27,7 +27,7 @@
 ## Deliverables
 
 - 📄 [Academic Report (PDF)](report/PFE_Mohamed_Mensi_Zaineb_Arfaoui_2025.pdf)
-- 🎥 [Demo Video](demo/README.md)
+- 🎥 [Cloud Resource Reservation & ECS Lifecycle Management Platform — Full Workflow Demonstration](demo/README.md)
 - 🖼️ Screenshots — see /screenshots
 - 📐 Architecture — see /docs/architecture.md
 - 🔌 API Integration Detail — see /docs/api-integration.md
